@@ -16,7 +16,7 @@
     "url": "https://jhermsmeier.de"
   },
   "dependencies": {
-    "camelcase": "^5.0.0",
+    "camelcase-es5": "5.3.2-es5",
     "foldline": "^1.1.0"
   },
   "devDependencies": {
@@ -32,13 +32,13 @@
       "firefox/latest"
     ]
   },
-  "homepage": "https://github.com/jhermsmeier/node-vcf",
+  "homepage": "https://github.com/nguyenpc/node-vcf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhermsmeier/node-vcf.git"
+    "url": "https://github.com/nguyenpc/node-vcf.git"
   },
   "bugs": {
-    "url": "https://github.com/jhermsmeier/node-vcf/issues"
+    "url": "https://github.com/nguyenpc/node-vcf/issues"
   },
   "scripts": {
     "test": "mocha --ui tdd",
